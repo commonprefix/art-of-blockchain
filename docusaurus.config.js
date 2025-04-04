@@ -8,7 +8,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'http://localhost:3000',
-  baseUrl: '/taobp/',
+  baseUrl: '/',
 
   organizationName: 'commonprefix',
   projectName: 'taobp-docs',

@@ -14,8 +14,8 @@ module.exports = {
       label: 'Prerequisites',
       collapsed: false,
       items: [
-        'prerequisites/markdown/language-proficiency',
-        'prerequisites/markdown/chat-application-exercise',
+        'prerequisites/language-proficiency',
+        'prerequisites/chat-application-exercise',
         'prerequisites/algorithms-and-data-structures',
         'prerequisites/programming-patterns',
         'prerequisites/systems-design',

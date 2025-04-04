@@ -6,7 +6,7 @@ icon: pen-to-square
 
 Before diving into the blockchain technology, it's essential to have a solid foundation in algorithms and data structures. Blockchain systems are built upon sophisticated combinations of data structures (like Merkle trees and hash chains) and algorithms (including consensus mechanisms and cryptographic protocols). Without understanding how to implement and analyze these fundamental computer science concepts, grasping the intricacies of blockchain architecture would be like attempting to build a skyscraper without knowing the properties of steel and concrete.
 
-When you encounter concepts like mining algorithms, smart contract execution, or distributed consensus, you’ll need to understand algorithmic complexity to evaluate their efficiency. In addition to that, blockchain nodes handle terabytes of complicated data. Thus, we need a deep understanding of how data can be organized, stored, and retrieved efficiently, before we proceed to blockchain-related knowledge
+When you encounter concepts like mining algorithms, smart contract execution, or distributed consensus, you'll need to understand algorithmic complexity to evaluate their efficiency. In addition to that, blockchain nodes handle terabytes of complicated data. Thus, we need a deep understanding of how data can be organized, stored, and retrieved efficiently, before we proceed to blockchain-related knowledge
 
 In addition to that, understanding algorithmic complexity becomes critical in blockchain development, where inefficient code can lead to excessive gas costs and network congestion. A seemingly minor O(n²) operation in a smart contract could translate to astronomical transaction fees when the network scales, making it essential to optimize algorithms before deploying them to the blockchain where code changes are often irreversible and costly.
 
@@ -18,7 +18,7 @@ During the algorithms section, adopt a structured approach to maximize your lear
 
 After making a genuine attempt, if you're still stuck, read through the approach explanation in the article and try implementing the solution yourself. Once you've solved the problem, return to the article and thoroughly review all aspects, including both the naive and optimal solutions. This comprehensive review will help you understand different approaches and their trade-offs. Rather than giving up quickly on challenging problems, embrace the difficulty as an essential part of the learning process.
 
-You should complete the following sections of this course. If you're already familiar with some concepts or want an extra challenge, try implementing the algorithms in a language you just learned in the [previous chapter](https://common-prefix.gitbook.io/art-of-blockchain-programming/prerequisites/markdown) (e.g., implement the data structures listed below in Rust to better understand its pointers and ownership rules).
+You should complete the following sections of this course. If you're already familiar with some concepts or want an extra challenge, try implementing the algorithms in a language you just learned in the [first chapter](/prerequisites/language-proficiency) (e.g., implement the data structures listed below in Rust to better understand its pointers and ownership rules).
 
 | Step                       | Lecture                  | Studying                                                                     |
 | -------------------------- | ------------------------ | ---------------------------------------------------------------------------- |
