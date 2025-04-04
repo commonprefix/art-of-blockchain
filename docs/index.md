@@ -45,7 +45,7 @@ Got feedback? [Open a pull request](https://github.com/commonprefix/swe-training
 | Chapter         | Description |
 |----------------|-------------|
 | **Prerequisites** | This section outlines fundamental computer science knowledge expected from professional software engineers. This section helps you identify and fill any knowledge gaps in areas like distributed systems, cryptography, and networking. |
-| **Foundations** | This section contains essential blockchain-specific knowledge required for participating as an engineering in the blockchain ecosystem. You'll learn core concepts that all blockchain engineering shares, from consensus mechanisms to smart contract development. |
+| **Foundations** | This section contains essential blockchain-specific knowledge required for participating as an engineer in the blockchain ecosystem. You'll learn core concepts that all blockchain engineering shares, from consensus mechanisms to smart contract development. |
 | **Specialization** | This section is meant to specialize engineers in one of the Bitcoin, Ethereum or Cosmos ecosystems. The goal is to gain deep expertise in your chosen ecosystem's architecture, development tools, and best practices. |
 
 

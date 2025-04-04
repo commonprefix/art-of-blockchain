@@ -1,5 +1,6 @@
 ---
-icon: markdown
+title: Language Proficiency
+description: Programming language requirements
 ---
 
 # Proficiency in 2 Languages

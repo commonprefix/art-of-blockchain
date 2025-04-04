@@ -1,11 +1,8 @@
-module.exports = {
+/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
+const sidebars = {
   tutorialSidebar: [
     // Top-level intro pages
-{
-      type: 'doc',
-      id: 'index',
-      label: 'The Art of Blockchain Programming',
-    },
+    'index',
     'how-to-read',
 
     // Prerequisites section
@@ -15,7 +12,6 @@ module.exports = {
       collapsed: false,
       items: [
         'prerequisites/language-proficiency',
-        'prerequisites/chat-application-exercise',
         'prerequisites/algorithms-and-data-structures',
         'prerequisites/programming-patterns',
         'prerequisites/systems-design',
@@ -56,4 +52,6 @@ module.exports = {
     },
   ],
 };
+
+module.exports = sidebars;
 

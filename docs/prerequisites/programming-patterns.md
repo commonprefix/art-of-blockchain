@@ -20,7 +20,7 @@ Our favorite resource for mastering design patterns using the GoF separation is 
 * Structural: [Proxy](https://refactoring.guru/design-patterns/proxy), [Bridge](https://refactoring.guru/design-patterns/bridge), [Flyweight](https://refactoring.guru/design-patterns/flyweight), [Facade](https://refactoring.guru/design-patterns/facade)
 * Behavioral: [Observer](https://refactoring.guru/design-patterns/observer), [Mediator](https://refactoring.guru/design-patterns/mediator), [Visitor](https://refactoring.guru/design-patterns/visitor)
 
-Once again, a good exercise would be to try implementing the pseudocode provided on the site using a language from the [Proficiency in 2 Languages](https://common-prefix.gitbook.io/art-of-blockchain-programming/prerequisites/markdown) chapter. You can also refer to the [Code Examples](https://refactoring.guru/design-patterns/examples) which do exactly that.
+Once again, a good exercise would be to try implementing the pseudocode provided on the site using a language from the [Proficiency in 2 Languages](../language-proficiency.md) chapter. You can also refer to the [Code Examples](https://refactoring.guru/design-patterns/examples) which do exactly that.
 
 > 💡 **Info**
 > * Read and understand all of the patterns mentioned above (\~4h)

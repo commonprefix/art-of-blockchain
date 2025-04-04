@@ -12,12 +12,12 @@ First, we have your blockchain nodes, which need to stay synchronized with the n
 
 Then there's the application layer, which might include APIs, backend services, and databases that complement your on-chain logic. Consider a DeFi application - while the core trading logic lives in smart contracts, you typically need off-chain services to handle things like price feeds, transaction monitoring, and user notifications. These services need proper deployment pipelines, scaling strategies, and failure recovery mechanisms.
 
-Last but not least, the security of these components is particularly important considering we’re dealing with decentralized networks where a couple of server breaches can cost millions.&#x20;
+Last but not least, the security of these components is particularly important considering we're dealing with decentralized networks where a couple of server breaches can cost millions.
 
 Becoming proficient in server administration and linux-based machines is something that comes with years of experience. Having said that to get started we recommend
 
-* Learn all the basic linux concepts and commands. If you’re not already familiar you should read the   [Linux Journey](https://linuxjourney.com/)&#x20;
-* Setting up a secure server is a must-have knowledge. We suggest reading and understanding [this document](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server). There are going to probably be a lot of words that you don’t understand and it’s okay. Take it step by step, search the internet and make sure that you understand the basic concepts. Alternatively you can read the more concise [VPS Hardening Post](https://krystal.io/blog/post/securing-and-hardening-your-vps) from [krystal.io](https://krystal.io).
+* Learn all the basic linux concepts and commands. If you're not already familiar you should read the   [Linux Journey](https://linuxjourney.com/)
+* Setting up a secure server is a must-have knowledge. We suggest reading and understanding [this document](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server). There are going to probably be a lot of words that you don't understand and it's okay. Take it step by step, search the internet and make sure that you understand the basic concepts. Alternatively you can read the more concise [VPS Hardening Post](https://krystal.io/blog/post/securing-and-hardening-your-vps) from [krystal.io](https://krystal.io).
 * Deploy and secure a minimal production web setup using the following components:
   * Provision an Ubuntu Virtual Private Server from a cloud provider. We suggest [Vultr](https://www.vultr.com/) or [Hetzner](https://www.hetzner.com/).
   * Apply security hardening measures including firewall rules, SSH configuration, user permissions and system updates using the documents above.
@@ -26,19 +26,17 @@ Becoming proficient in server administration and linux-based machines is somethi
   * [Deploy a static website](https://medium.com/@jasonrigden/how-to-host-a-static-website-with-nginx-8b2dd0c5b301).
 
 > 💡 **Info**
-> - Read the Grasshopper and Journeyman chapters of the [Linux Journey](https://linuxjourney.com/)
-> - Read the server hardening document
-> - Do the exercise described above
-
-
+> * Read the Grasshopper and Journeyman chapters of the [Linux Journey](https://linuxjourney.com/).
+> * Read the server hardening document.
+> * Do the exercise described above.
 
 ## Optional
 
 Apart from the mandatory material, DevOps requires a big set of tools that SysAdmins use day-to-day. The most important tools that we use in the blockchain space and you should familiarize yourself with include:
 
 * [Docker](https://www.docker.com/): A platform for developing, shipping, and running applications in containers. Containers package an application and its dependencies into a single unit that can run consistently across different computing environments.
-* [Jenkins](https://www.jenkins.io/)/[Travis](https://www.travis-ci.com/):  On open-source automations that help automate parts of the software development process, including building, testing, and deploying applications. It supports continuous integration and continuous deployment (CI/CD).
+* [Jenkins](https://www.jenkins.io/)/[Travis](https://www.travis-ci.com/): Open-source automation tools that help automate parts of the software development process, including building, testing, and deploying applications. They support continuous integration and continuous deployment (CI/CD).
 * [Kubernetes](https://kubernetes.io/): An open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications.
-* [AWS](https://aws.amazon.com/) (Amazon Web Services): A cloud computing platforms that provides over 200 services like compute power, storage, and databases that companies can rent instead of maintaining their own data centers.
+* [AWS](https://aws.amazon.com/) (Amazon Web Services): A cloud computing platform that provides over 200 services like compute power, storage, and databases that companies can rent instead of maintaining their own data centers.
 
-Making yourself expert on those tools requires dedicating significant time to learning each one thoroughly through hands-on practice. For Docker, start with building and managing containers locally, then move to multi-container applications with Docker Compose. For Jenkins/Travis, set up CI/CD pipelines for small projects and gradually increase complexity. With Kubernetes, begin with local clusters using minikube, then progress to managing production-grade clusters. For AWS, create a free tier account and practice with core services like EC2, S3, and VPC before exploring blockchain-specific services like Amazon Managed Blockchain.
+Making yourself expert on these tools requires dedicating significant time to learning each one thoroughly through hands-on practice. For Docker, start with building and managing containers locally, then move to multi-container applications with Docker Compose. For Jenkins/Travis, set up CI/CD pipelines for small projects and gradually increase complexity. With Kubernetes, begin with local clusters using minikube, then progress to managing production-grade clusters. For AWS, create a free tier account and practice with core services like EC2, S3, and VPC before exploring blockchain-specific services like Amazon Managed Blockchain.
