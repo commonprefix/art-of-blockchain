@@ -7,8 +7,8 @@ const config = {
   tagline: 'Master blockchain engineering from first principles.',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  url: 'http://localhost:3000',
+  baseUrl: '/taobp/',
 
   organizationName: 'commonprefix',
   projectName: 'taobp-docs',
@@ -42,7 +42,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        hideOnScroll: true,
+        hideOnScroll: false,
         items: [],
       },
       footer: undefined,
