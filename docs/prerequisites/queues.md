@@ -27,13 +27,12 @@ Even though there are a lot of queue implementations out there knowing how rabbi
 
 In order to familiarize yourself with queues we suggest the following material:
 
-* Learn the basics of queues and set up your own rabbitMQ by following [part1](https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html) and [part2](https://www.cloudamqp.com/blog/part2-2-rabbitmq-for-beginners_example-and-sample-code-node-js.html) of CloudAMQP
-* Dive deeper on different queue protocols and policing [here](https://kisztof.medium.com/rabbitmq-an-introduction-to-message-queuing-protocols-and-policies-cb6073c7a3d6).
+* Learn the basics of queues and set up your own rabbitMQ by following [Part 1](https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html) and [Part 2](https://www.cloudamqp.com/blog/part2-2-rabbitmq-for-beginners_example-and-sample-code-node-js.html) of CloudAMQP
+* Dive deeper on different queue protocols and policing by reading [this](https://kisztof.medium.com/rabbitmq-an-introduction-to-message-queuing-protocols-and-policies-cb6073c7a3d6) article.
 
 > 💡 **Info**
-> Read [part1](https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html) and [part2](https://www.cloudamqp.com/blog/part2-2-rabbitmq-for-beginners_example-and-sample-code-node-js.html) of the rabbitMQ introduction.
-> 
-> Read [this post](https://kisztof.medium.com/rabbitmq-an-introduction-to-message-queuing-protocols-and-policies-cb6073c7a3d6) about protocols and policing.
+> - Read [Part 1](https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html) and [Part 2](https://www.cloudamqp.com/blog/part2-2-rabbitmq-for-beginners_example-and-sample-code-node-js.html) of the rabbitMQ introduction.
+> - Read [this post](https://kisztof.medium.com/rabbitmq-an-introduction-to-message-queuing-protocols-and-policies-cb6073c7a3d6) about protocols and policing.
 
 ## Optional&#x20;
 

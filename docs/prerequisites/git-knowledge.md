@@ -12,8 +12,6 @@ Becoming proficient with Git is a simple process, but becoming a Git expert requ
 
 > 💡 **Info**
 > *   Read [Git from the Bottom](https://jwiegley.github.io/git-from-the-bottom-up/) Up
-> 
-> 
 > * Play through the entire [Learn Git Branching](https://learngitbranching.js.org/) game&#x20;
 
 ## Optional

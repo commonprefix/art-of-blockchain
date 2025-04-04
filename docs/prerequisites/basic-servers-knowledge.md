@@ -42,8 +42,3 @@ Apart from the mandatory material, DevOps requires a big set of tools that SysAd
 * [AWS](https://aws.amazon.com/) (Amazon Web Services): A cloud computing platforms that provides over 200 services like compute power, storage, and databases that companies can rent instead of maintaining their own data centers.
 
 Making yourself expert on those tools requires dedicating significant time to learning each one thoroughly through hands-on practice. For Docker, start with building and managing containers locally, then move to multi-container applications with Docker Compose. For Jenkins/Travis, set up CI/CD pipelines for small projects and gradually increase complexity. With Kubernetes, begin with local clusters using minikube, then progress to managing production-grade clusters. For AWS, create a free tier account and practice with core services like EC2, S3, and VPC before exploring blockchain-specific services like Amazon Managed Blockchain.
-
-\
-
-
-
