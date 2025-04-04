@@ -42,6 +42,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
+        title: 'The Art of Blockchain Programming',
         hideOnScroll: false,
         items: [],
       },

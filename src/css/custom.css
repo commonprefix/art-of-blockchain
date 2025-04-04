@@ -28,7 +28,7 @@
 
 /* Custom Title Size */
 h1 {
-  font-size: 2.25rem !important; /* Adjust this as needed (default is ~2.5-3rem) */
+  font-size: 2.25rem !important;
   font-weight: 700;
   margin-bottom: 1rem;
 }

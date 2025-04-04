@@ -1,21 +1,7 @@
 ---
-# icon: hand-wave
-# cover: https://gitbookio.github.io/onboarding-template-images/header.png
-# coverY: 0
-# layout:
-#   cover:
-#     visible: true
-#     size: full
-#   title:
-#     visible: true
-#   description:
-#     visible: false
-#   tableOfContents:
-#     visible: true
-#   outline:
-#     visible: true
-#   pagination:
-#     visible: true
+title: The Art of Blockchain Programming
+description: Master blockchain engineering from first principles
+hide_table_of_contents: false
 ---
 
 # The Art of Blockchain Programming
@@ -60,14 +46,14 @@ Got feedback? [Open a pull request](https://github.com/commonprefix/swe-training
 |----------------|-------------|
 | **Prerequisites** | This section outlines fundamental computer science knowledge expected from professional software engineers. This section helps you identify and fill any knowledge gaps in areas like distributed systems, cryptography, and networking. |
 | **Foundations** | This section contains essential blockchain-specific knowledge required for participating as an engineering in the blockchain ecosystem. You'll learn core concepts that all blockchain engineering shares, from consensus mechanisms to smart contract development. |
-| **Specialization** | This section is meant to specialize engineers in one of the Bitcoin, Ethereum or Cosmos ecosystems. The goal is to gain deep expertise in your chosen ecosystem’s architecture, development tools, and best practices. |
+| **Specialization** | This section is meant to specialize engineers in one of the Bitcoin, Ethereum or Cosmos ecosystems. The goal is to gain deep expertise in your chosen ecosystem's architecture, development tools, and best practices. |
 
 
 ## About us&#x20;
 
 [Common Prefix](https://commonprefix.com) is a blockchain research and development company. Blockchain technologies will empower a planetary-wide economic collaboration with efficient resource allocation in the near future, tracking capital, land, stock, government decisions, business and governmental contracts. In the path towards this mainstream adoption of a "world wide ledger", our mission is to solve the foundational scientific and engineering problems that stand in the way, in particular in the areas of interoperability, scalability, and usability. We are idealistic cryptographers who prove protocols secure using mathematics, and pragmatic engineers who implement protocols and take them to production, and we culminate the synergy between the two. A small team of 22 people, half scientists, half engineers, working with blockchain-first companies only, from L1 to L2 and DeFi protocols, among others Axelar, Espresso Systems, Mysten Labs, Celestia, Babylon, FlashBots, and Flare Networks among our customers, and multiple research grants from Ethereum Foundation.
 
-Beyond working with external partners on a consulting or partnership basis, our engineering team is building core and foundational open source libraries and tooling to power the blockchain systems of tomorrow for the betterment of the community, focusing on Ethereum, Cosmos, and Bitcoin; and our research team is openly publishing papers in A\* peer-reviewed scientific conferences and journals on all the foundational topics in the space, with the goal of getting performant protocols proven secure, cited, appreciated, implemented and deployed.
+Beyond working with external partners on a consulting or partnership basis, our engineering team is building core and foundational open source libraries and tooling to power the blockchain systems of tomorrow for the betterment of the community, focusing on Ethereum, Cosmos, and Bitcoin; and our research team is openly publishing papers in A* peer-reviewed scientific conferences and journals on all the foundational topics in the space, with the goal of getting performant protocols proven secure, cited, appreciated, implemented and deployed.
 
 > 💡 **Info**
 >
