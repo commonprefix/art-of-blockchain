@@ -11,11 +11,7 @@ This repository contains the documentation for The Art of Blockchain Programming
 
 ## Static files
 
-The `/static` directory holds all static files: stylesheets, images, fonts, and documents. For large images, please follow these guidelines:
-
-- Place all images in the `/static/img` directory
-- For large images, create a compressed version with width 150px
-- Use the suffix `_w150` for compressed images (e.g. `example_w150.jpg`)
+The `/static` directory holds all static files: stylesheets, images, fonts, and documents.
 
 ## Documentation Structure
 

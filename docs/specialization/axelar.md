@@ -1,3 +1,3 @@
 # Axelar
 
-Themis – please fill in!
+Coming soon...!

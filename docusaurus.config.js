@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'The Art of Blockchain Programming',
   tagline: 'Master blockchain engineering from first principles.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/CommonprefixLogo.png',
 
   url: 'http://localhost:3000',
   baseUrl: '/',
@@ -44,6 +44,10 @@ const config = {
       navbar: {
         title: 'The Art of Blockchain Programming',
         hideOnScroll: false,
+        logo: {
+          alt: 'CommonPrefix Logo',
+          src: 'img/CommonprefixLogo.png',
+        },
         items: [],
       },
       footer: undefined,
