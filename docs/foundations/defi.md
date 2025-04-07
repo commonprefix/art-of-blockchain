@@ -1,6 +1,6 @@
 # DeFi
 
-> 💡 **Info**
+> 💡 **Tasks**
 > * Use [Uniswap](https://app.uniswap.org/) to swap $10 worth of your Ether to USDC directly through your Metamask without using a centralized exchange
 > * Read [CS251 Lecture 9 slides](https://cs251.stanford.edu/lectures/lecture9.pdf)
 > * Read [CS251 Lecture 10 slides](https://cs251.stanford.edu/lectures/lecture10.pdf)

@@ -1,6 +1,6 @@
 # Ethereum
 
-> 💡 **Info**
+> 💡 **Tasks**
 > * From the [Ethereum documentation](https://ethereum.org/en/developers/docs/) (docs) and [Upgrading Ethereum](https://eth2book.info/bellatrix/contents/) (eth2) read:
 >   * Networks (docs)
 >   * Consensus mechanisms (docs)

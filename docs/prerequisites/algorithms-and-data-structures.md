@@ -4,6 +4,10 @@ icon: pen-to-square
 
 # Algorithms & Data Structures
 
+> ⏱️ **Estimated Completion Time**: 10-12 hours
+
+
+
 Before diving into the blockchain technology, it's essential to have a solid foundation in algorithms and data structures. Blockchain systems are built upon sophisticated combinations of data structures (like Merkle trees and hash chains) and algorithms (including consensus mechanisms and cryptographic protocols). Without understanding how to implement and analyze these fundamental computer science concepts, grasping the intricacies of blockchain architecture would be like attempting to build a skyscraper without knowing the properties of steel and concrete.
 
 When you encounter concepts like mining algorithms, smart contract execution, or distributed consensus, you'll need to understand algorithmic complexity to evaluate their efficiency. In addition to that, blockchain nodes handle terabytes of complicated data. Thus, we need a deep understanding of how data can be organized, stored, and retrieved efficiently, before we proceed to blockchain-related knowledge
@@ -39,9 +43,9 @@ You should complete the following sections of this course. If you're already fam
 | Step 15: Graphs            | 1: Learning              | Read graphs and types, graph representation in C++, BFS and DFS              |
 |                            | 2: Problems BFS/DFS      | Solve 4 problems                                                             |
 
-> 💡 **Info**
-> * Read the [complexities](https://discrete.gr/complexity/) article (\~1h)
-> * Solve [Strivers A2Z DSA](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) problems listed in the table above (\~8h)
+> 💡 **Tasks**
+> * Read the [complexities](https://discrete.gr/complexity/) article
+> * Solve [Strivers A2Z DSA](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) problems listed in the table above
 
 ## Optional material
 

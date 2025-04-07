@@ -29,7 +29,7 @@ Multiple node implementations are also employing NoSQL databases for unstructure
 * Read about [Redis](https://redis.io/) and go through the [Redis University](https://university.redis.io/learningpath/14q8m6gilfwltm) Course.
 * Read about [LevelDB](https://github.com/google/leveldb/blob/main/doc/index.md) and see why [Geth uses LevelDB](https://geth.ethereum.org/docs/fundamentals/databases).
 
-> 💡 **Info**
+> 💡 **Tasks**
 > - Read the [SQLBolt](https://sqlbolt.com/) documentation and solve the [PGExercises](https://pgexercises.com/gettingstarted.html) locally
 > - Read about [NoSQL](https://www.mongodb.com/resources/basics/databases/nosql-explained) databases from MongoDB and the [LevelDB](https://www.mongodb.com/resources/basics/databases/nosql-explained) documentation&#x20;
 > - Go through the [Redis University](https://university.redis.io/learningpath/14q8m6gilfwltm) Course (\~2h)

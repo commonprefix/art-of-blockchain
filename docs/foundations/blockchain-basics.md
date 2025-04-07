@@ -27,5 +27,5 @@ The [Decentralized Thoughts](https://decentralizedthoughts.github.io/) blog is a
   * [The Threshold Adversary](https://decentralizedthoughts.github.io/2019-06-17-the-threshold-adversary/)
   * [Consensus for State Machine Replication](https://decentralizedthoughts.github.io/2019-10-15-consensus-for-state-machine-replication/)
 
-> 💡 **Info**
+> 💡 **Tasks**
 > - Finish the assigned readings above

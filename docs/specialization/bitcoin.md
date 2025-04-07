@@ -1,6 +1,6 @@
 # Bitcoin
 
-> 💡 **Info**
+> 💡 **Tasks**
 > * Install the full-node self-custodian Bitcoin wallet [Bitcoin Core](https://bitcoin.org/en/wallets/desktop/mac/bitcoincore/?step=5\&platform=mac\&important=control,validation). Run it so that it downloads and validates the whole Bitcoin main net blockchain.
 > * Read the [Technical](https://learnmeabitcoin.com/technical/) chapter of [learn me a bitcoin](https://learnmeabitcoin.com/).
 > * Read about [hierarchical deterministic wallets](https://en.bitcoin.it/wiki/Deterministic_wallet), the solution to key management.

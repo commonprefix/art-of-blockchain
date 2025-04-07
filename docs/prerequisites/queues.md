@@ -4,6 +4,10 @@ icon: timeline
 
 # Queues
 
+> ⏱️ **Estimated Completion Time**: 2 hours
+
+
+
 Message queues are a fundamental building block of modern distributed systems, and they're particularly critical in blockchain infrastructure where different components often need to operate at varying speeds and scales.
 
 Let's examine a node example in pseudocode to understand why slower components would bottleneck faster ones without message queues:
@@ -34,7 +38,7 @@ To familiarize yourself with queues, we suggest the following material:
 * Check out how to [set up RabbitMQ](https://www.rabbitmq.com/tutorials) in the language of your choice
 * Dive deeper into different queue protocols and policies by reading [this article](https://kisztof.medium.com/rabbitmq-an-introduction-to-message-queuing-protocols-and-policies-cb6073c7a3d6)
 
-> 💡 **Info**
+> 💡 **Tasks**
 > - Read [Part 1](https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html) of CloudAMQP
 > - Read [Part 2](https://www.cloudamqp.com/blog/part2-2-rabbitmq-for-beginners_example-and-sample-code-node-js.html) of the RabbitMQ introduction for NodeJS or [this tutorial](https://www.rabbitmq.com/tutorials) for other languages
 > - Read [this post](https://kisztof.medium.com/rabbitmq-an-introduction-to-message-queuing-protocols-and-policies-cb6073c7a3d6) about protocols and policies

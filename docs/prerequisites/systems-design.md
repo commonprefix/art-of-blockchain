@@ -20,7 +20,7 @@ First, study the [System Design Primer](https://github.com/donnemartin/system-de
 
 After mastering these fundamentals, we recommend watching [Gaurav Sen's system design playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX). While this is a small playlist, this collection offers invaluable insights into both theoretical concepts and real-world architectures of large-scale applications. Generally for systems design, videos are useful for  bridging the gap between academic knowledge and practical implementation, showing how major companies architect their systems.
 
-> 💡 **Info**
+> 💡 **Tasks**
 > * Read the [topics](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#system-design-topics-start-here) section of the [System Design Primer](https://github.com/donnemartin/system-design-primer)
 > * Watch [Gaurav Sen's system design playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 

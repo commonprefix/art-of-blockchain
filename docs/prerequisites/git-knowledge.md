@@ -10,7 +10,7 @@ Version control mastery is particularly vital for blockchain engineers, given th
 
 Becoming proficient with Git is a simple process, but becoming a Git expert requires years of experience. Our recommendations are:&#x20;
 
-> 💡 **Info**
+> 💡 **Tasks**
 > *   Read [Git from the Bottom](https://jwiegley.github.io/git-from-the-bottom-up/) Up
 > * Play through the entire [Learn Git Branching](https://learngitbranching.js.org/) game&#x20;
 

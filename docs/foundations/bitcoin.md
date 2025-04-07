@@ -1,6 +1,6 @@
 # Bitcoin
 
-> 💡 **Info**
+> 💡 **Tasks**
 > * Download and run the [Electrum](https://bitcoin.org/en/wallets/desktop/mac/electrum/?step=5\&platform=mac\&important=control\&user=beginner) Bitcoin wallet.
 > * Use [Kraken](https://www.kraken.com/) to get yourself $20's worth of real Bitcoin on the Bitcoin main net and move them to your Electrum.
 > * Read [CS251 Lecture 2 slides](https://cs251.stanford.edu/lectures/lecture2.pdf).

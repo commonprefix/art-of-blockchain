@@ -25,7 +25,7 @@ Becoming proficient in server administration and linux-based machines is somethi
   * [Configure Nginx as a reverse proxy](https://www.digitalocean.com/community/tutorials/how-to-configure-nginx-as-a-reverse-proxy-on-ubuntu-22-04) to a simple HTTP server running on a port.
   * [Deploy a static website](https://medium.com/@jasonrigden/how-to-host-a-static-website-with-nginx-8b2dd0c5b301).
 
-> 💡 **Info**
+> 💡 **Tasks**
 > * Read the Grasshopper and Journeyman chapters of the [Linux Journey](https://linuxjourney.com/).
 > * Read the server hardening document.
 > * Do the exercise described above.

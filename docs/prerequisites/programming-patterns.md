@@ -4,6 +4,9 @@ icon: hand-pointer
 
 # Programming Patterns
 
+> ⏱️ **Estimated Completion Time**: 4 hours
+
+
 Software design patterns are reusable solutions to common problems that arise during the design of software applications. The knowledge of design patterns is also what distinguishes a senior software engineer from a junior coder.
 
 That being said, in distributed systems like blockchains, where nodes need to handle complex peer-to-peer communication, state synchronization, and consensus mechanisms, design patterns provide battle-tested solutions for critical challenges. You'll need patterns like Observer for handling block and transaction propagation and Factory patterns for node instantiation across different network configurations. Without solid design patterns, a blockchain node can quickly become an unmaintainable mess of spaghetti code that's prone to bugs and difficult to upgrade.
@@ -22,8 +25,8 @@ Our favorite resource for mastering design patterns using the GoF separation is 
 
 Once again, a good exercise would be to try implementing the pseudocode provided on the site using a language from the [Proficiency in 2 Languages](language-proficiency.md) chapter. You can also refer to the [Code Examples](https://refactoring.guru/design-patterns/examples) which do exactly that.
 
-> 💡 **Info**
-> * Read and understand all of the patterns mentioned above (\~4h)
+> 💡 **Tasks**
+> * Read and understand all of the patterns mentioned above
 
 ## Optional
 

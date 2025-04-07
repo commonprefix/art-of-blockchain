@@ -5,6 +5,9 @@ description: Programming language requirements
 
 # Proficiency in 2 Languages
 
+> ⏱️ **Estimated Completion Time**: 40-50 hours
+
+
 Needless to say, mastering at least two programming languages is a fundamental building block for a software engineer. While you've likely already crossed this road if you're reading this document, for completeness of this studying material let's outline the path to becoming proficient on a language.
 
 We specifically recommend mastering:
@@ -58,9 +61,9 @@ After learning each language, to ensure you've moved beyond syntax familiarity t
 
 Remember, the goal is not just to complete these projects, but to implement them with proper error handling, testing, and production-quality code organization.&#x20;
 
-> 💡 **Info**
-> * Learn Typescript by following the material above (\~20h)
-> * Learn Rust or Golang by following the material above (\~25h)
+> 💡 **Tasks**
+> * Learn Typescript by following the material above
+> * Learn Rust or Golang by following the material above
 > * Implement a project in each one of the languages
 
 ## Optional material

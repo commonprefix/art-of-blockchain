@@ -1,6 +1,6 @@
 # Ethereum
 
-> 💡 **Info**
+> 💡 **Tasks**
 > * Download and set up [Metamask](https://metamask.io/).
 > * Use a faucet to get yourself some test net Ether into your Metamask.
 > * Use [Kraken](https://www.kraken.com/) to buy yourself $20's worth of real Ethereum on the Ethereum main net and transfer them to your Metamask.
