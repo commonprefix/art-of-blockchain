@@ -23,7 +23,7 @@ Without queues, this sequential processing creates bottlenecks:
 
 That’s why message queues is a mandatory building tool in the blockchain space. By employing queues we achieve parallel processing of different operations, independent scaling of workers basic on the load of a specific operation as well as the ability to isolate faults between components.
 
-Even though there are a lot of queue implementations out there knowing how rabbitMQ is sufficient to get familiar with the queueing logic.
+Even though there are a lot of queue implementations out there knowing how rabbitMQ works is sufficient to get familiar with the queueing logic.
 
 In order to familiarize yourself with queues we suggest the following material:
 
