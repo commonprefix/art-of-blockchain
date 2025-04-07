@@ -38,7 +38,7 @@ This guide is for:
 * **Junior programmers.** You just graduated with a Computer Science degree, or taught yourself the equivalent of one. You've worked for a year or two either professionally or developing open source. You're looking to start a career directly in web3. Read from the first chapter to make sure you don't have any gaps, then move on to Chapter 2.
 * **Expert blockchain engineers.** You've deployed real smart contracts that hold millions in total-value-locked. You've written some code for the execution or the consensus layer of a blockchain. You're looking to gain specialization. Read from Chapter 2 to make sure you don't have any gaps, then move on to Chapter 3.
 
-Got feedback? [Open a pull request](https://github.com/commonprefix/swe-training).
+Got feedback? [Open a pull request](https://github.com/commonprefix/art-of-blockchain).
 
 ## Chapters
 
