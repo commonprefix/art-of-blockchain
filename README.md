@@ -9,8 +9,6 @@ This repository contains the documentation for The Art of Blockchain Programming
 3. Run `npm start` to start the development server
 4. The site will be available at `http://localhost:3000`
 
-> For development: Run `npm start` to start the development server. The site will automatically reload when you make changes to the source files.
-
 ## Static files
 
 The `/static` directory holds all static files: stylesheets, images, fonts, and documents. For large images, please follow these guidelines:
