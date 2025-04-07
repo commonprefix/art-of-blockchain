@@ -6,7 +6,7 @@
 ## Prerequisites
 
 * [Proficiency in 2 Languages](prerequisites/language-proficiency.md)
-  * [Chat Application Exercise](prerequisites/chat-application-exercise.md)
+* [Chat Application Exercise](prerequisites/chat-application-exercise.md)
 * [Algorithms & Data Structures](prerequisites/algorithms-and-data-structures.md)
 * [Programming Patterns](prerequisites/programming-patterns.md)
 * [Systems Design](prerequisites/systems-design.md)

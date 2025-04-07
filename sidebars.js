@@ -12,6 +12,7 @@ const sidebars = {
       collapsed: false,
       items: [
         'prerequisites/language-proficiency',
+        'prerequisites/chat-application-exercise',
         'prerequisites/algorithms-and-data-structures',
         'prerequisites/programming-patterns',
         'prerequisites/systems-design',
