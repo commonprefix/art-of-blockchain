@@ -4,6 +4,8 @@ icon: network-wired
 
 # Git / Github
 
+> ⏱️ **ETC**: 10-12 hours
+
 Fortunately, software is not a one-man job. But even if it were, version control is unavoidable.
 
 Version control mastery is particularly vital for blockchain engineers, given the open-source nature of most blockchain projects. Major platforms like Ethereum, Bitcoin, and Axelar maintain their codebases on public repositories where thousands of developers collaborate, contribute, and review code changes. This open development model requires engineers to thoroughly understand version control workflows, from managing pull requests and handling merge conflicts to participating in code reviews and tracking issues.
