@@ -4,7 +4,7 @@ icon: timeline
 
 # Queues
 
-> ⏱️ **Estimated Completion Time**: 2 hours
+> ⏱️ **ETC**: 2 hours
 
 
 

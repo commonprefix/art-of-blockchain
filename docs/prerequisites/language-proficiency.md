@@ -5,7 +5,7 @@ description: Programming language requirements
 
 # Proficiency in 2 Languages
 
-> ⏱️ **Estimated Completion Time**: 40-50 hours
+> ⏱️ **ETC**: 40-50 hours
 
 
 Needless to say, mastering at least two programming languages is a fundamental building block for a software engineer. While you've likely already crossed this road if you're reading this document, for completeness of this studying material let's outline the path to becoming proficient on a language.
@@ -25,10 +25,10 @@ All of the material below will bring the engineers to a level that they are quit
 
 ***
 
-* For learning the syntax read [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) or the [Typescript Deep Dive](https://basarat.gitbook.io/typescript/type-system). (\~6h)
-* Solve the 16 [Typescript Exercises](https://typescript-exercises.github.io/). (\~7h)
-* Solve 20 easy problems in Typescript from either [LeetCode](https://leetcode.com/) or [CodeWars](https://www.codewars.com/). (\~3h)
-* Try to build your own HTTP API that has some POST and GET endpoints using [express.js](https://expressjs.com/). (\~1h)
+* For learning the syntax read [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) or the [Typescript Deep Dive](https://basarat.gitbook.io/typescript/type-system).
+* Solve the 16 [Typescript Exercises](https://typescript-exercises.github.io/).
+* Solve 20 easy problems in Typescript from either [LeetCode](https://leetcode.com/) or [CodeWars](https://www.codewars.com/)
+* Try to build your own HTTP API that has some POST and GET endpoints using [express.js](https://expressjs.com/).
 * Spend 2-3 hours going through the [most interesting typescript projects](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/TypeScript.md) on Github.
 
 ## Go
@@ -45,11 +45,11 @@ All of the material below will bring the engineers to a level that they are quit
 
 ***
 
-* For learning the syntax, go through the [official rust documentation](https://doc.rust-lang.org/rust-by-example/). (\~7h)
-* Run locally and solve the [Rustlings](https://github.com/rust-lang/rustlings) course. (\~10h)
-* Solve 20 easy problems in Rust from either [LeetCode](https://leetcode.com/) or [CodeWars](https://www.codewars.com/). (\~4h)
+* For learning the syntax, go through the [official rust documentation](https://doc.rust-lang.org/rust-by-example/).
+* Run locally and solve the [Rustlings](https://github.com/rust-lang/rustlings) course.
+* Solve 20 easy problems in Rust from either [LeetCode](https://leetcode.com/) or [CodeWars](https://www.codewars.com/).
 * Read the documentation of [Tokio](https://tokio.rs/), [Serde](https://serde.rs/), [thiserror](https://lib.rs/crates/thiserror) to learn 3 of the most used libraries in the Rust ecosystem.
-* Try to build your own HTTP API that has some POST and GET endpoints using some [HTTP server](https://lib.rs/web-programming/http-server). (\~1h)
+* Try to build your own HTTP API that has some POST and GET endpoints using some [HTTP server](https://lib.rs/web-programming/http-server).
 * Read our [btc-mpc](https://github.com/commonprefix/btc-mpc/) open-source code, all of the Rust we've written for the [Axelar light client](https://github.com/commonprefix/axelar-light-client). There are amazing open-source Rust projects in the blockchain space. If you are already familiar with blockchains, try your luck with the big guns: [https://github.com/paradigmxyz/reth/](https://github.com/paradigmxyz/reth/).
 
 ***

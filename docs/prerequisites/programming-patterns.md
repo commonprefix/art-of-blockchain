@@ -4,7 +4,7 @@ icon: hand-pointer
 
 # Programming Patterns
 
-> ⏱️ **Estimated Completion Time**: 4 hours
+> ⏱️ **ETC**: 4 hours
 
 
 Software design patterns are reusable solutions to common problems that arise during the design of software applications. The knowledge of design patterns is also what distinguishes a senior software engineer from a junior coder.

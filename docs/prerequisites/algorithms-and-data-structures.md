@@ -4,7 +4,7 @@ icon: pen-to-square
 
 # Algorithms & Data Structures
 
-> ⏱️ **Estimated Completion Time**: 10-12 hours
+> ⏱️ **ETC**: 10-12 hours
 
 
 
