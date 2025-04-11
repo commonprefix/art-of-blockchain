@@ -4,7 +4,7 @@ icon: network-wired
 
 # Git / Github
 
-> ⏱️ **ETC**: 10-12 hours
+> ⏱️ **ETC**: 3 hours
 
 Fortunately, software is not a one-man job. But even if it were, version control is unavoidable.
 
