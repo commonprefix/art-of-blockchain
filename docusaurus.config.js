@@ -56,6 +56,12 @@ const config = {
         disableSwitch: false, 
         respectPrefersColorScheme: true,
       },
+      algolia: {
+        appId: 'O9N053DR49',
+        apiKey: 'ea8bdd6c39274658378794f7b8cb2ab7',
+        indexName: 'learning-commonprefix',
+        contextualSearch: true,
+      },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
