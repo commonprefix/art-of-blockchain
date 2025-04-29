@@ -6,6 +6,7 @@
 >   * Pick one of [EVM](https://docs.axelar.dev/dev/general-message-passing/gmp-messages/), [Cosmos](https://docs.axelar.dev/dev/general-message-passing/cosmos-gmp/overview/), [Sui](https://docs.axelar.dev/dev/general-message-passing/sui/intro/) or [Stellar](https://docs.axelar.dev/dev/general-message-passing/stellar-gmp/intro/) and read the chapter 
 >   * Read the [Amplifier introduction](https://docs.axelar.dev/dev/amplifier/introduction/) to get an overview of how the Amplifier works. 
 >   * Read the [contract descriptions](https://github.com/axelarnetwork/axelar-amplifier/blob/main/doc/src/SUMMARY.md) to get to know the components of the amplifier.
+>   * Read the chapter about the [gas service](https://docs.axelar.dev/dev/gas-service/intro/)
 >   * Exercises:
 >     * On [axelarscan](https://axelarscan.io/gmp/search), pick a successful `ContractCall`. Retrace and understand its flow
 >      * [Execute a GMP call yourself](https://docs.axelar.dev/dev/amplifier/gmp-example)
