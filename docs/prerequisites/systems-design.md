@@ -4,6 +4,8 @@ icon: pencil
 
 # Systems Design
 
+> ⏱️ **ETC**: 10 hours
+
 Understanding traditional system design principles is particularly important, especially when working with core node implementations. A blockchain node is a perfect example of how different system components must work together seamlessly:
 
 * **Database Systems**: Nodes require robust storage solutions to maintain blockchain state and provide quick access to historical data. Understanding database design principles is crucial for implementing efficient state management and data retrieval. You'll need to make careful decisions about data structures, indexing strategies, and query optimization.
