@@ -1,6 +1,6 @@
 # Axelar
 
-> **Tasks**
+> 💡 **Tasks**
 > * General Message Passing (GMP):
 >   * Read the [GMP introduction](https://docs.axelar.dev/dev/general-message-passing/overview/) to get to know Axelar's key functionality.
 >   * Pick one of [EVM](https://docs.axelar.dev/dev/general-message-passing/gmp-messages/), [Cosmos](https://docs.axelar.dev/dev/general-message-passing/cosmos-gmp/overview/), [Sui](https://docs.axelar.dev/dev/general-message-passing/sui/intro/) or [Stellar](https://docs.axelar.dev/dev/general-message-passing/stellar-gmp/intro/) and read the chapter 
