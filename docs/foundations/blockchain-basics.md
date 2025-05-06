@@ -14,7 +14,7 @@ Before you get into programming specific blockchains, it's good to know a bit of
 
 * Stanford's [CS251](https://cs251.stanford.edu/) by Dan Boneh
 * Stanford's [EE374](https://ee374.stanford.edu/) by Dionysis Zindros and David Tse
-* The University of Vienna [course](https://drive.google.com/file/d/1cqDhD3D52M163h1eM9Sojb6hP3oRur63/view?usp=drive_link) by Zeta Avarikioti and Matteo Maffei
+* The University of Vienna [Course](https://drive.google.com/file/d/1cqDhD3D52M163h1eM9Sojb6hP3oRur63/view?usp=drive_link) by Zeta Avarikioti and Matteo Maffei
 * The University of Edinburgh [Blockchain Course](https://www.inf.ed.ac.uk/teaching/courses/bdl/) by Dimitris Karakostas and Aggelos Kiayias
 
 The [Decentralized Thoughts](https://decentralizedthoughts.github.io/) blog is a great resource for learning about distributed and decentralized systems. The whole blog is a treasure of good material presented in a digestable fashion while keeping mathematical correctness.

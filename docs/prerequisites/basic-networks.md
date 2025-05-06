@@ -4,6 +4,9 @@ icon: chart-network
 
 # Basic Networks
 
+> ⏱️ **ETC**: 5 hours
+
+
 Understanding networking and TCP/IP in blockchain is like knowing the rules of the road before building a highway. Blockchain networks are nothing else than distributed systems running on top of the Internet, making networking knowledge not just useful, but absolutely critical.
 
 When you're troubleshooting why your nodes aren't syncing properly, you need to understand concepts like network latency, UDP vs TCP connections, and port configurations. The blockchain's peer-to-peer network relies heavily on TCP/IP for node discovery, block propagation, and transaction broadcasting – it's the fundamental building block that allows nodes to communicate across the globe.
