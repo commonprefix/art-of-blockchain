@@ -14,7 +14,7 @@ Then there's the application layer, which might include APIs, backend services, 
 
 Last but not least, the security of these components is particularly important considering we're dealing with decentralized networks where a couple of server breaches can cost millions.
 
-Becoming proficient in server administration and linux-based machines is something that comes with years of experience. Having said that to get started we recommend
+Becoming proficient in server administration and linux-based machines is something that comes with years of experience. Having said, here are a few recommendations to get you started:
 
 * Learn all the basic linux concepts and commands. If you're not already familiar you should read the   [Linux Journey](https://linuxjourney.com/)
 * Setting up a secure server is a must-have knowledge. We suggest reading and understanding [this document](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server). There are going to probably be a lot of words that you don't understand and it's okay. Take it step by step, search the internet and make sure that you understand the basic concepts. Alternatively you can read the more concise [VPS Hardening Post](https://krystal.io/blog/post/securing-and-hardening-your-vps) from [krystal.io](https://krystal.io).

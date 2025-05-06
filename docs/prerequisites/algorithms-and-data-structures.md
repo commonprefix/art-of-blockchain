@@ -47,7 +47,7 @@ You should complete the following sections of this course. If you're already fam
 > * Read the [complexities](https://discrete.gr/complexity/) article
 > * Solve [Strivers A2Z DSA](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) problems listed in the table above
 
-## Optional material
+## Optional
 
 This curriculum covers only fundamental data structures and algorithms to keep the scope manageable. There's a vast field of computer science dedicated to advanced algorithms and data structures that goes far beyond these basics. Additionally, competitive programming represents another level of algorithmic problem-solving, where these concepts are applied in more complex and challenging ways. If you find yourself interested in diving deeper, you can explore these advanced topics and the competitive programming scene after mastering these fundamentals. Well-written books to get you started include:
 
