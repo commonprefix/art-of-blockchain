@@ -4,9 +4,7 @@ icon: server
 
 # Basic Servers Knowledge
 
-In the wild west of blockchain technology understanding DevOps isn't just a nice-to-have - it's a mandatory skill that is being used on a daily basis.
-
-When you're building blockchain applications, you're typically working with several interconnected components:
+In the wild west of blockchain technology understanding DevOps isn't just a nice-to-have - it's a mandatory skill that is being used on a daily basis. When you're building blockchain applications, you're typically working with several interconnected components:
 
 First, we have your blockchain nodes, which need to stay synchronized with the network and handle high volumes of transactions. These nodes require careful server configuration, monitoring, and maintenance. For example, an Ethereum node needs specific hardware requirements, proper networking setup, and continuous monitoring to ensure it stays in sync with the latest blocks.
 
