@@ -13,9 +13,12 @@ When you're troubleshooting why your nodes aren't syncing properly, you need to 
 
 A good and consise reference for understanding the different layers of networks is the [Network Basics](https://linuxjourney.com/lesson/network-basics) chapter of the [Linux Journey](https://linuxjourney.com/). After gaining some intuition, the suggested route for learning networks fast is a YouTube series called [Network Foundamentals](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8).&#x20;
 
+Another must-do exercise is setting up your own HTTP server, making it serve a sub-directory of your own file system and then trying to shield it from various attacks like [LFI](https://www.brightsec.com/blog/local-file-inclusion-lfi/) and [XSS](https://owasp.org/www-community/attacks/xss/).
+
 > 💡 **Tasks**
 > * Read the "Networking Nomad" chapter of the [Linux Journey](https://linuxjourney.com/)
 > * Watch parts 1-9, 11 and 14-17 of the [Network Foundamentals](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8) playlist.
+> * Make your own secure HTTP server.
 
 ## Optional
 

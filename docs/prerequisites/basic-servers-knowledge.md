@@ -22,6 +22,8 @@ Becoming proficient in server administration and linux-based machines is somethi
   * Register a domain through [Namecheap](https://namecheap.com) and configure the [DNS records](https://www.namecheap.com/support/knowledgebase/article.aspx/319/2237/how-can-i-set-up-an-a-address-record-for-my-domain/) to point to your server.
   * [Configure Nginx as a reverse proxy](https://www.digitalocean.com/community/tutorials/how-to-configure-nginx-as-a-reverse-proxy-on-ubuntu-22-04) to a simple HTTP server running on a port.
   * [Deploy a static website](https://medium.com/@jasonrigden/how-to-host-a-static-website-with-nginx-8b2dd0c5b301).
+  
+A little overlap exists between these exercises and the basic networks ones, so it is recommended you do them in parallel to end up with a secure deployed website and/or server.
 
 > 💡 **Tasks**
 > * Read the Grasshopper and Journeyman chapters of the [Linux Journey](https://linuxjourney.com/).
