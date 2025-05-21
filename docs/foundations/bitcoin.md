@@ -12,7 +12,7 @@ Key upgrades in Bitcoin’s history include:
 - **[SegWit](https://learnmeabitcoin.com/beginners/guide/segwit/) (BIP141)**: Fixed transaction malleability and laid the groundwork for scaling via second-layer protocols.
 - **[Taproot](https://www.dydx.xyz/crypto-learning/what-is-taproot#:~:text=Taproot%20was%20a%202021%20update,Maxwell's%20contributions%20in%20succeeding%20years.) (BIP341)**: Enabled more private and composable smart contracts using Schnorr signatures and Merkleized script trees.
 
-Consensus changes are rare and conservative, since tens of millions of users are affected by them. Most upgrades are implemented via [soft forks](https://www.investopedia.com/terms/s/soft-fork.asp), requiring careful coordination among miners, nodes, and developers. For the latter, Bitcoin presents a unique and intellectually rigorous environment: its ecosystem demands minimalism, careful design, and a strong grasp of cryptographic and distributed systems principles.
+Consensus changes are rare and conservative, since tens of millions of users are affected by them. Most upgrades are implemented via [soft forks](https://www.investopedia.com/terms/s/soft-fork.asp), requiring careful coordination among miners, nodes, and developers. 
 
 A good starting place to understand how Bitcoin works is [this](https://www.youtube.com/watch?v=bBC-nXj3Ng4) video by 3Blue1Brown.
 
