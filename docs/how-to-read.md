@@ -23,6 +23,6 @@ While going through this material:
 
 ### Getting help
 
-[Common Prefix](https://commonprefix.com) would love to support engineers throughout this learning journey. We're launching a Discord group where you can ask questions, discuss concepts, and connect with other engineers studying this material. We'll add the invitation link here once the group is active.&#x20;
+[Common Prefix](https://commonprefix.com) would love to support engineers throughout this learning journey. We're launching a Discord group where you can ask questions, discuss concepts, and connect with other engineers studying this material. We'll add the invitation link here once the group is active.
 
-Having said that, please don't hesitate to contact Dionysis Zindros (dionyziz@commonprefix.com) or Nikos Sfakianakis (nikos@commonprefix.com) for any questions or concerns regarding this book.
+Having said that, please don't hesitate to contact Dionysis Zindros (dionyziz@commonprefix.com) or Nikos Sfakianakis (nikos@commonprefix.com) for any questions or concerns regarding this book, or if you would like to participate in beta-testing it.
