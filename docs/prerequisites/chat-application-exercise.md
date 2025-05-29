@@ -1,6 +1,6 @@
 # Chat Application Exercise
 
-This exercise involves creating a command-line chat application that enables real-time communication between multiple users through WebSocket connections. The project encompasses both server and client components, focusing on providing a smooth, interactive chat experience directly from the terminal.
+This exercise involves creating a command-line chat application that enables real-time communication between multiple users through WebSocket connections. The project encompasses both server and client components, focusing on providing a smooth, interactive chat experience directly from the terminal. It is strongly recommended that you first build a simple functional solution, and then build on top of it. As you progress through each chapter, use the new tools and techniques you learn to improve the Chat Application until you meet all the targets set below.
 
 ### Server Implementation
 

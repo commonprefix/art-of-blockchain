@@ -37,6 +37,7 @@ const sidebars = {
         'foundations/defi',
         'foundations/cosmos-and-axelar',
         'foundations/internet-scale-consensus',
+        'foundations/relayer-exercise',
       ],
     },
 
