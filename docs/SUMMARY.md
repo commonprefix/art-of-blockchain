@@ -22,10 +22,10 @@
 * [Blockchain Foundations](foundations/blockchain-foundations.md)
 * [Bitcoin](foundations/bitcoin.md)
 * [Ethereum](foundations/ethereum.md)
-* [DeFi](foundations/defi.md)
-* [Cosmos and Axelar](foundations/cosmos-and-axelar.md)
-* [Internet-Scale Consensus](foundations/internet-scale-consensus.md)
 * [Relayer Exercise](foundations/relayer-exercise.md)
+* [DeFi](foundations/defi.md)
+* [Cosmos](foundations/cosmos.md)
+* [Internet-Scale Consensus](foundations/internet-scale-consensus.md)
 
 ## Specialization
 
