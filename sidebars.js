@@ -34,10 +34,11 @@ const sidebars = {
         'foundations/blockchain-foundations',
         'foundations/bitcoin',
         'foundations/ethereum',
-        'foundations/defi',
-        'foundations/cosmos-and-axelar',
-        'foundations/internet-scale-consensus',
         'foundations/relayer-exercise',
+        'foundations/defi',
+        'foundations/cosmos',
+        'foundations/internet-scale-consensus',
+
       ],
     },
 
