@@ -25,7 +25,6 @@
 * [Relayer Exercise](foundations/relayer-exercise.md)
 * [DeFi](foundations/defi.md)
 * [Cosmos](foundations/cosmos.md)
-* [Internet-Scale Consensus](foundations/internet-scale-consensus.md)
 
 ## Specialization
 

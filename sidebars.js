@@ -24,7 +24,7 @@ const sidebars = {
       ],
     },
 
-    // Foundations section
+    // Foundations section  
     {
       type: 'category',
       label: 'Foundations',
@@ -37,8 +37,6 @@ const sidebars = {
         'foundations/relayer-exercise',
         'foundations/defi',
         'foundations/cosmos',
-        'foundations/internet-scale-consensus',
-
       ],
     },
 
