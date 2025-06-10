@@ -2,7 +2,7 @@
 
 Cosmos Network is an interoperable and scalable blockchain ecosystem developed in 2016 by Jae Kwon(co-founder of [Tendermint](https://tendermint.com/)) and Ethan Buchman.
 
-The Cosmos SDK is a flexible framework built in Go that lets developers create their own blockchains using Tendermint's consensus engine. Think of it as a toolkit that emphasizes modularity and security, similar to how npm works for JavaScript applications. It started as a simple framework but has evolved into a powerful platform for building custom blockchains.
+The Cosmos SDK is a flexible framework built in Golang that lets developers create their own blockchains using Tendermint's consensus engine. Think of it as a toolkit that emphasizes modularity and security, similar to how npm works for JavaScript applications. It started as a simple framework but has evolved into a powerful platform for building custom blockchains.
 Some of the most useful building blocks it offers to developers are:
 - [EVM](https://evm.cosmos.network/): A module which adds Ethereum-compatible smart contract execution.
 - [WASM](https://cosmwasm.com/): A module for WebAssembly, which allows you to write smart contracts in languages like Rust, then compile it to WASM Bytecode and deploy it to safely run inside a VM.
