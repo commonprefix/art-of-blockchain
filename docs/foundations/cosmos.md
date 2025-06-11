@@ -12,10 +12,10 @@ Some of the most useful building blocks it offers to developers are:
 - [Staking](https://docs.cosmos.network/main/build/modules/staking) and [Slashing](https://docs.cosmos.network/main/build/modules/slashing): Proof of Stake related functions.
 - [Mint](https://docs.cosmos.network/main/build/modules/mint): A module for creating new tokens.
 
-A primary characteristic of the Ecosystem is [Interoperability](https://www.coinbase.com/learn/crypto-glossary/what-is-blockchain-interoperability). The original Cosmos blockchain that connects other Cosmos chains via [IBC](https://tutorials.cosmos.network/academy/3-ibc/1-what-is-ibc.html) is the [Cosmos Hub](https://hub.cosmos.network/main)(ATOM). Some projects built on top of it include:
+A primary characteristic of the Ecosystem is [Interoperability](https://www.coinbase.com/learn/crypto-glossary/what-is-blockchain-interoperability). The original Cosmos blockchain that connects other Cosmos chains via the [Inter-Blockchain Communication Protocol](https://tutorials.cosmos.network/academy/3-ibc/1-what-is-ibc.html) (IBC) is the [Cosmos Hub](https://hub.cosmos.network/main) (with ATOM being its native cryptocurrency). Some projects built on top of it include:
 - [Osmosis](https://osmosis.zone/): A [DEX](https://www.coinbase.com/learn/crypto-basics/what-is-a-dex) to swap between tokens of the Ecosystem.
 - [The Secret Network](https://scrt.network/): A chain with privacy-preserving smart contracts.
-- [Axelar](https://www.axelar.network/): A "bridge" chain mainly used for interoperability between other chains.
+- [Axelar](https://www.axelar.network/): A "bridge chain" mainly used for interoperability between other chains.
 - [Celestia](https://celestia.org/): A chain offering data availability.
 
 As always, a good first read is the official [Cosmos SDK Docs](https://docs.cosmos.network/main/learn), specifically the [Introduction](https://docs.cosmos.network/main/learn/intro/overview) and [Beginner](https://docs.cosmos.network/main/learn/beginner/app-anatomy) sections. Once you have familiarized yourself with the Interchain, go through the [Cosmos Hands-on Exercise](https://tutorials.cosmos.network/hands-on-exercise/0-native/#) and code along. Make sure to also check any parts of the [Tutorials](https://tutorials.cosmos.network/tutorials/1-tech-terms/) section that might be useful for the exercise.
