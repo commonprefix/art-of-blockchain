@@ -1,7 +1,3 @@
----
-icon: hand-pointer
----
-
 # Programming Patterns
 
 > ⏱️ **ETC**: 4 hours

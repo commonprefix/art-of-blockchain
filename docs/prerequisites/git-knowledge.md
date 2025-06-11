@@ -1,7 +1,3 @@
----
-icon: network-wired
----
-
 # Git / Github
 
 > ⏱️ **ETC**: 3 hours

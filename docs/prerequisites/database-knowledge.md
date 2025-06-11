@@ -1,8 +1,6 @@
----
-icon: plug-circle-plus
----
-
 # Relational / Non-relational DBs
+
+> ⏱️ **ETC**: 8 hours
 
 We need to store our data somewhere. From the core node implementations, to the various indexers all around the space, we are constantly playing with an overwhelming amount of data that we need to store somewhere.&#x20;
 
@@ -32,10 +30,10 @@ Multiple node implementations are also employing NoSQL databases for unstructure
 > 💡 **Tasks**
 > - Read the [SQLBolt](https://sqlbolt.com/) documentation and solve the [PGExercises](https://pgexercises.com/gettingstarted.html) locally
 > - Read about [NoSQL](https://www.mongodb.com/resources/basics/databases/nosql-explained) databases from MongoDB and the [LevelDB](https://www.mongodb.com/resources/basics/databases/nosql-explained) documentation&#x20;
-> - Go through the [Redis University](https://university.redis.io/learningpath/14q8m6gilfwltm) Course (\~2h)
+> - Go through the [Redis University](https://university.redis.io/learningpath/14q8m6gilfwltm) Course
 
 ## Optional
 
-Database expertise requires understanding both the inner workings of database management systems (DBMS) and the principles of efficient database design. The [Database System Concepts](https://www.db-book.com/) book is the most popular resource from the DBMS architecture to schema optimization for minimal redundancy and maximum query performance.&#x20;
+Database expertise requires understanding both the inner workings of database management systems (DBMS) and the principles of efficient database design. The [Database System Concepts](https://www.db-book.com/) book is the most popular resource from the DBMS architecture to schema optimization for minimal redundancy and maximum query performance.
 
 In addition to the theoretical knowledge, to gain practical experience in querying databases, we recommend setting up a [Dune Analytics](https://dune.com/) account and exploring queries across the ecosystem's [most active databases](https://docs.dune.com/data-catalog/overview).

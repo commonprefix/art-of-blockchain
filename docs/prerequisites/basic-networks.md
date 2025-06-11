@@ -1,7 +1,3 @@
----
-icon: chart-network
----
-
 # Basic Networks
 
 > ⏱️ **ETC**: 5 hours

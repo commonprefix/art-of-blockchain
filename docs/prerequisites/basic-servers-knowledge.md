@@ -1,8 +1,6 @@
----
-icon: server
----
-
 # Basic Servers Knowledge
+
+> ⏱️ **ETC**: 10 hours
 
 In the wild west of blockchain technology understanding DevOps isn't just a nice-to-have - it's a mandatory skill that is being used on a daily basis. When you're building blockchain applications, you're typically working with several interconnected components:
 

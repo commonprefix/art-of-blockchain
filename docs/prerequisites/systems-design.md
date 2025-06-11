@@ -1,7 +1,3 @@
----
-icon: pencil
----
-
 # Systems Design
 
 > ⏱️ **ETC**: 10 hours

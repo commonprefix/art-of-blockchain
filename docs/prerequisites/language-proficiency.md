@@ -1,12 +1,6 @@
----
-title: Language Proficiency
-description: Programming language requirements
----
-
 # Proficiency in 2 Languages
 
 > ⏱️ **ETC**: 40-50 hours
-
 
 Needless to say, mastering at least two programming languages is a fundamental building block for a software engineer. While you've likely already crossed this road if you're reading this document, for completeness of this studying material let's outline the path to becoming proficient on a language.
 

@@ -1,12 +1,6 @@
----
-icon: timeline
----
-
 # Queues
 
 > ⏱️ **ETC**: 2 hours
-
-
 
 Message queues are a fundamental building block of modern distributed systems, and they're particularly critical in blockchain infrastructure where different components often need to operate at varying speeds and scales.
 
