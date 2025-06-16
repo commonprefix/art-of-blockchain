@@ -19,5 +19,5 @@
 >     * [Create a canonical token](https://docs.axelar.dev/dev/send-tokens/interchain-tokens/developer-guides/programmatically-create-a-canonical-token/)
 >     * [Link a custom token into an interchain token](https://docs.axelar.dev/dev/send-tokens/interchain-tokens/developer-guides/link-custom-tokens-deployed-across-multiple-chains-into-interchain-tokens/)
 > * Learn the basics on how to integrate a new chain: 
->   * Read the [integration guide](https://github.com/axelarnetwork/axelar-gmp-sdk-solidity/blob/main/contracts/gateway/INTEGRATION.md)
+>   * Read the [Integration Guide](https://github.com/axelarnetwork/axelar-gmp-sdk-solidity/blob/main/contracts/gateway/INTEGRATION.md)
 >   * Use [this repository](https://github.com/axelarnetwork/axelar-gmp-sdk-solidity/) as implementation reference

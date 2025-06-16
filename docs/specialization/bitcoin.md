@@ -1,7 +1,8 @@
 # Bitcoin
 
 > 💡 **Tasks**
-> * Install the full-node self-custodian Bitcoin wallet [Bitcoin Core](https://bitcoin.org/en/wallets/desktop/mac/bitcoincore/?step=5\&platform=mac\&important=control,validation). Run it so that it downloads and validates the whole Bitcoin main net blockchain.
+> * Install the full-node self-custodian Bitcoin wallet [Bitcoin Core](https://bitcoin.org/en/wallets/desktop/mac/bitcoincore/?step=5\&platform=mac\&important=control,validation). Run it so that it downloads and validates the whole Bitcoin blockchain. The mainnet is quite large and will take a long time to sync, so make sure to specify the testnet or the signet in the config or as a parameter if the mainnet is too much for your setup.
+> * After setting up your full node, experiment with the bitcoin-cli commands by creating transactions, sending BTC between addresses and using any other features you find interesting
 > * Read the [Technical](https://learnmeabitcoin.com/technical/) chapter of [learn me a bitcoin](https://learnmeabitcoin.com/).
 > * Read about [hierarchical deterministic wallets](https://en.bitcoin.it/wiki/Deterministic_wallet), the solution to key management.
 > * Read about [hashlocks](https://en.bitcoin.it/wiki/Hashlock).
