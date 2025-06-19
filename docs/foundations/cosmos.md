@@ -20,6 +20,7 @@ A primary characteristic of the Ecosystem is [Interoperability](https://www.coin
 
 As always, a good first read is the official [Cosmos SDK Docs](https://docs.cosmos.network/main/learn), specifically the [Introduction](https://docs.cosmos.network/main/learn/intro/overview) and [Beginner](https://docs.cosmos.network/main/learn/beginner/app-anatomy) sections. Once you have familiarized yourself with the Interchain, go through the [Cosmos Hands-on Exercise](https://tutorials.cosmos.network/hands-on-exercise/0-native/#) and code along. Make sure to also check any parts of the [Tutorials](https://tutorials.cosmos.network/tutorials/1-tech-terms/) section that might be useful for the exercise.
 
+Finally, create your own Escrow Smart Contracts by completing the [CosmWasm101](https://github.com/InjectiveLabs/CosmWasm101/) tasks. 
 
 > 💡 **Tasks**
 > * Download and install [Keplr](https://www.keplr.app/) and configure it for ATOM if it is not the default.
@@ -27,10 +28,11 @@ As always, a good first read is the official [Cosmos SDK Docs](https://docs.cosm
 > * Go through the Introduction and Beginner sections of the [Cosmos SDK Docs](https://docs.cosmos.network/main/learn).
 > * Create your own chain by following the [Cosmos Hands-on Exercise](https://tutorials.cosmos.network/hands-on-exercise/0-native/#).
 > * Experiment with all the modules the Cosmos SDK has to offer by adding them to your chain.
+> * Create your own smart contracts by going through the [CosmWasm101](https://github.com/InjectiveLabs/CosmWasm101/) tasks.
 
 ## Optional
 
 For those looking to understand the Tendermint consensus a little more, read [this](https://docs.tendermint.com/master/introduction/what-is-tendermint.html) section of [Tendermint Core](https://docs.tendermint.com/master/introduction/what-is-tendermint.html), and any other sections that might seem interesting to you.
 
-Finally, you can find a brief history of the Cosmos chain [here](https://blog.cosmos.network/cosmos-history-inception-to-prelaunch-b05bcb6a4b2b).
+Additionally, you can find a brief history of the Cosmos chain [here](https://blog.cosmos.network/cosmos-history-inception-to-prelaunch-b05bcb6a4b2b).
 
