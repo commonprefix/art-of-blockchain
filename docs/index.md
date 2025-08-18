@@ -6,7 +6,7 @@ hide_table_of_contents: false
 
 # The Art of Blockchain Programming
 
-Dimitris Lamprinos, Dionysis Zindros, and co-authors
+Dimitris Lamprinos, Dionysis Zindros, Nikolaos Sfakianakis and co-authors
 
 Before the early morning Japanese sun of January 4th has risen, the Bitcoin genesis block is silently mined in Satoshi Nakamoto's laptop. It is 2009. It marks not just the birth of a new currency, but the dawn of an entirely new engineering discipline. Blockchain engineering has since evolved from an obscure cryptographic experiment into a sophisticated field that demands mastery of distributed systems, game theory, economics, and cutting-edge security practices.
 
