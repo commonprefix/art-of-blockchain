@@ -21,6 +21,7 @@ const sidebars = {
         'prerequisites/queues',
         'prerequisites/basic-servers-knowledge',
         'prerequisites/basic-networks',
+        'prerequisites/coding-training',
       ],
     },
 
