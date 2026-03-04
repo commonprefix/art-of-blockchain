@@ -44,6 +44,9 @@ contract Token {
     
 }
 ```
+
+*Note: the amount is sent as a string but represents a positive integer. For simplicity, you may assume it can be converted to an integer.*
+
 ### Relayer
 The most straight forward design to start with is the monolithic one for the Relayer. You need to monitor chain A for any events emitted which have the signature you are looking for, in this case `Deposited(address,string)`. If you are using Rust, [alloy](https://docs.rs/alloy/latest/alloy/) is your go-to library to interact with Ethereum. Once you have captured such an event (or more specifically a transaction with that event in its [logs](https://developers.moralis.com/ethereum-logs-and-events-what-are-event-logs-on-the-ethereum-network/)), you need to trigger the event emission in chain B. After checking that the receipt of that final transaction has status == 1, you have a working product to build on top of. You can also spawn the anvil chains using the flag `--block-time 0.1` which will produce blocks in the background, ensuring your code works in a more realistic environment.
 
